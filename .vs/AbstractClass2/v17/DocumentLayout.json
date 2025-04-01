@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|solutionrelative:models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|c:\\users\\asus\\desktop\\folders\\codeacademytasks\\abstractclass2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|c:\\users\\asus\\desktop\\folders\\codeacademytasks\\abstractclass2\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C7D8D7D-BB90-4640-81B4-13E6000751B1}|AbstractClass2.csproj|c:\\users\\asus\\desktop\\folders\\codeacademytasks\\abstractclass2\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,10 +48,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\Car.cs",
-              "RelativeToolTip": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T19:58:32.818Z"

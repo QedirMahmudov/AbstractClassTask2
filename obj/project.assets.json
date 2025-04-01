@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\AbstractClass2\\AbstractClass2.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\AbstractClass2.csproj",
       "projectName": "AbstractClass2",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\AbstractClass2\\AbstractClass2.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\AbstractClass2.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\AbstractClass2\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Folders\\CodeAcademyTasks\\AbstractClass2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
