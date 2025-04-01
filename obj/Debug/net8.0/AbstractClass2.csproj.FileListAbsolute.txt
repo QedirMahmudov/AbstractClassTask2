@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AbstractClass2\bin\Debug\net8.0\AbstractClass2.exe
+C:\Users\ASUS\source\repos\AbstractClass2\bin\Debug\net8.0\AbstractClass2.deps.json
+C:\Users\ASUS\source\repos\AbstractClass2\bin\Debug\net8.0\AbstractClass2.runtimeconfig.json
+C:\Users\ASUS\source\repos\AbstractClass2\bin\Debug\net8.0\AbstractClass2.dll
+C:\Users\ASUS\source\repos\AbstractClass2\bin\Debug\net8.0\AbstractClass2.pdb
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.dll
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\refint\AbstractClass2.dll
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.pdb
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\AbstractClass2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\AbstractClass2\obj\Debug\net8.0\ref\AbstractClass2.dll
